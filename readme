@@ -1,0 +1,16 @@
+第一个giu工程，并通过command line同步到github。
+git init					创建一个git
+git add filename			将文件添加到git
+git commit -m "message"		提交，message为版本信息
+git remote add origin http://github.com/Dancylsw/firstgit.git		创建一个本地仓库origin链接到远程github仓库firstgit
+git push oirgin master		将本地仓库origin中的分支master同步到github中
+
+
+git clone http:/github.com/Dancylsw/firstgit.git					从github克隆项目到本地
+git pull http://github.com/Dancylsw/firstgit.git					将github的仓库firstgit中的内容同步到本地
+
+git bransh					查看分支
+
+
+
+http://www.linuxidc.com/Linux/2014-03/97821.htm
